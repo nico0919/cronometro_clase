@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cronometro_clase</string>
+    <String name="start">Empezar</String>
+    <String name="stop">Detener</String>
+    <String name="reset">Reiniciar</String>
+
+</resources>
